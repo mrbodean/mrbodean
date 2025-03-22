@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ## 📊 GitHub Stats
 
 <div align="center">
