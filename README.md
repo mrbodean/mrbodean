@@ -1,5 +1,9 @@
 ## Hi there 👋
+## 📊 GitHub Stats
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ugurkocde&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
 <!--
 **mrbodean/mrbodean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
